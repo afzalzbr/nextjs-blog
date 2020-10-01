@@ -10,6 +10,7 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>Afzal Zubair</title>
+    <script src="https://app.respond.io/facebook/chat/plugin/34422/115469986881677" async></script>
       </Head>
       <section className={utilStyles.headingMd}>Hi I'm a fronted Enthusiast.</section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
